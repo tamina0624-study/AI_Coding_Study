@@ -15,6 +15,7 @@ project-root/
 │   ├── prompts.txt              # プロジェクトで使うプロンプト
 │   ├── current_status.txt       # 現在の進捗・作業状況
 │   └── leftover_tasks.txt       # 未完了タスク・残課題
+│   └── WORK_LOG_yyyy-mm.txt     # 作業ログ
 ├── .gitignore                   # 00.secretや環境変数ファイルを除外する
 ├── README.md                    # プロジェクト概要・利用方法
 └── （言語・ツールの設定ファイル） # package.json、pyproject.toml等
